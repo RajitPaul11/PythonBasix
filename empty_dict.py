@@ -11,6 +11,7 @@ country={
     "Pratham":d,
     }
 dict.update(country)
+dict.update({"Samar":"ZBW"})
 print(dict.items())
 
 #Another Approach
